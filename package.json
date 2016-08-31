@@ -1,0 +1,22 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "\u001b[A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsqinht/React-ToDo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsqinht/React-ToDo/issues"
+  },
+  "homepage": "https://github.com/marsqinht/React-ToDo#readme"
+}
